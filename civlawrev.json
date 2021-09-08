@@ -719,6 +719,235 @@
                     ]
                 }
             ]
-        }
+        },
+        {
+            "name": "Module 2",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [   
+                {
+                    "name": "I.Requisites of Marriage",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [   
+                        {
+                            "name": "Cases",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [   
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Void Marriages",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [  
+                        {
+                            "name": "AM No. 02-11-10-SC, March 4, 2003",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [   
+                            ]
+                        },
+                        {
+                            "name": "AM No. 02-11-12-SC, MArch 4, 2003",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [   
+                            ]
+                        },
+                        {
+                            "name": "Cases",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [   
+                                {
+                                    "name": "Arts. 35-36",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "",
+                                    "children": [   
+                                    ]
+                                },
+                                {
+                                    "name": "Arts. 37-44",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "",
+                                    "children": [   
+                                    ]
+                                }                                                                
+                            ]
+                        }                                                 
+                    ]
+                }                                
+            ]
+        },
+        {
+            "name": "Module 3",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [  
+                {
+                    "name": "I. Voidable Marriages (Arts. 45-54, FC)",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        {
+                            "name": "AM No. 02-11-10-SC, March 4, 2003",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [   
+                            ]
+                        },
+                        {
+                            "name": "AM No. 02-11-12-SC, MArch 4, 2003",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [   
+                            ]
+                        },                        
+                        {
+                            "name": "Cases",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [   
+                            ]
+                        }                           
+                    ]
+                },
+                {
+                    "name": "II. Legal Separation (Arts. 55-67, FC)",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [ 
+                        {
+                            "name": "AM No. 02-11-10-SC, March 4, 2003",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [   
+                            ]
+                        },
+                        {
+                            "name": "AM No. 02-11-12-SC, MArch 4, 2003",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [   
+                            ]
+                        },
+                        {
+                            "name": "Cases",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [   
+                            ]
+                        }                                                     
+                    ]
+                },
+                {
+                    "name": "III. Rights and Obligations between Husband and Wife",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [   
+
+                    ]
+                }                                 
+            ]
+        }               
     ]
 }
