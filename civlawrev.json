@@ -112,7 +112,7 @@
                                     "ruling": "",
                                     "significance": "",
                                     "correlation": "",
-                                    "details": "Publication is required for the Rules of the Senate Committee of the Whole to be effective.",
+                                    "details": "Publication is required for the Rules of the Senate Committee of the Whole to be effective by virtue of its own provision, not by the publication requirement under the civil code.",
                                     "children": []
                                 },
                                 {
@@ -162,7 +162,7 @@
                                 {
                                     "name": "11. Cui vs. Arellano University ",
                                     "url": "",
-                                    "facts": "",
+                                    "facts": "the scholar of arellano",
                                     "issue": "",
                                     "ruling": "",
                                     "significance": "",
@@ -222,7 +222,7 @@
                                     "ruling": "",
                                     "significance": "",
                                     "correlation": "",
-                                    "details": "",
+                                    "details": "RR here which is internal in nature need not be published.",
                                     "children": []}
                             ]
                         },
@@ -242,7 +242,7 @@
                                     "facts": "The cochero incident",
                                     "issue": "Is the cochero of the defendant negligent in leaving the horses in the manner described by the evidence in this case?",
                                     "ruling": "No. The act of defendant's driver in leaving the horses in the manner proved was not unreasonable or imprudent. ",
-                                    "significance": "",
+                                    "significance": "customary practices",
                                     "correlation": "",
                                     "details": "Acts, the performance of which has not proved destructive or injurious and which have, therefore, been acquiesced in by society for so long a time that they have ripened into custom, cannot be held to be themselves unreasonable or imprudent. ",
                                     "children": []
@@ -294,11 +294,11 @@
                                 {
                                     "name": "6. San Luis v. San Luis",
                                     "url": "",
-                                    "facts": "",
+                                    "facts": "[prior to family code]",
                                     "issue": "May a Filipino who is divorced by his alien spouse abroad validly remarry?",
                                     "ruling": "",
                                     "significance": "",
-                                    "correlation": "",
+                                    "correlation": "Romillo & Pilapil cases, FC, Art. 26[2]",
                                     "details": " If the foreigner obtains a valid foreign divorce, the Filipino spouse shall have capacity to remarry under Philippine law.",
                                     "children": []
                                 }
@@ -322,7 +322,7 @@
                             "facts": "",
                             "issue": "Should petitioners be held liable for damages despite the claim that their action is merely exercise of their right as seller-mortgagee to foreclose mortgage in case of default?",
                             "ruling": "Yes, petitioners should be held liable. Petitioner corporation failed to bring the proper civil action necessary to acquire legal possession of the motorcycle. Instead, petitioner Uypitching descended on respondent's establishment with his policemen and ordered the seizure of the motorcycle without a search warrant or court order. ",
-                            "significance": "",
+                            "significance": "abuse of right",
                             "correlation": "",
                             "details": "The motorcycle thief is the mortgagee. Article 19, also known as the principle of abuse of right, prescribes that a person should not use his right unjustly or contrary to honesty and good faith, otherwise he opens himself to liability. It seeks to preclude the use of, or the tendency to use, a legal right (or duty) as a means to unjust ends.",
                             "children": []
@@ -379,7 +379,7 @@
                             "ruling": "Yes. Petitioners should be held liable for damages.",
                             "significance": "",
                             "correlation": "",
-                            "details": "The imputation of guilt without basis and the pattern of harassment during the investigations of Tobias transgressed the standards of human conduct set forth in Article 19 of the Civil Code. The Court has already                         ruled that the right of the employer to dismiss an employee should not be confused with the manner in which the right is exercised and the effects flowing therefrom. If the dismissal is done abusively, then the employer is liable for damages to the employee. ",
+                            "details": "The imputation of guilt without basis and the pattern of harassment during the investigations of Tobias transgressed the standards of human conduct set forth in Article 19 of the Civil Code. The Court has already ruled that the right of the employer to dismiss an employee should not be confused with the manner in which the right is exercised and the effects flowing therefrom. If the dismissal is done abusively, then the employer is liable for damages to the employee. ",
                             "children": []
                         },
                         {
@@ -388,7 +388,7 @@
                             "facts": "",
                             "issue": "May a university be held liable for damages for misleading a student into believing that the latter had satisfied all the requirements for graduation?",
                             "ruling": "Yes. UE may be held liable. Considering that the institution of learning involved herein is a university which is engaged in legal education, it should have practiced what it inculcates in its students, more specifically the principle of good dealings enshrined in Articles 19 and 20 of the Civil Code. Educational institutions are duty-bound to inform the students of their academic status and not wait for the latter to inquire from the former.",
-                            "significance": "",
+                            "significance": "favorite of dean ulan",
                             "correlation": "",
                             "details": "When one of two innocent parties must suffer, he through whose agency the loss occurred must bear it. The modern tendency is to grant indemnity for damages in cases where there is abuse of right, even when the act is not illicit. If mere fault or negligence in one’s acts can make him liable for damages for injury caused thereby, with more reason should abuse or bad faith make him liable. A person should be protected only when he acts in the legitimate exercise of his right, that is, when he acts with prudence and in good faith, but not when he acts with negligence or abuse.",
                             "children": []
@@ -429,7 +429,7 @@
                         {
                             "name": "10. Gregorio v. Court of Appeals",
                             "url": "",
-                            "facts": "",
+                            "facts": "the checks and the employee who did not check the address",
                             "issue": "Is the civil suit filed by Gregorio based on quasi-delict or malicious prosecution?",
                             "ruling": "Quasidelict. It appears that Gregorio’s rights to personal dignity, personal security, privacy, and peace of mind were infringed by Sansio and Datuin when they failed to exercise the requisite diligence in determining the identity of the person they should rightfully accuse of tendering insufficiently funded checks. This fault was compounded when they failed to ascertain the correct address of petitioner, thus depriving her of the opportunity to controvert the charges, because she was not given proper notice. ",
                             "significance": "",
@@ -444,7 +444,7 @@
                             "issue": "Is the subsequent declaration of nullity of the second marriage is a ground for dismissal of the criminal case for bigamy?",
                             "ruling": "No, the accused may still be charged with the crime of bigamy, even if there is a subsequent declaration of the nullity of the second marriage, so long as the first marriage was still subsisting when the second marriage was celebrated.",
                             "significance": "",
-                            "correlation": "",
+                            "correlation": "FC, Art. 40; Pulido v. People",
                             "details": "THE  FINALITY  OF  THE  JUDICIAL  DECLARATION  OF  NULLITY  OF  PETITIONER’S  SECOND MARRIAGE DOES NOT IMPEDE THE FILING OF A CRIMINAL CHARGE FOR BIGAMY AGAINST HIM",
                             "children": []
                         },
@@ -452,22 +452,22 @@
                             "name": "12. Tenebro v. Court of Appeals",
                             "url": "",
                             "facts": "",
-                            "issue": "",
-                            "ruling": "",
+                            "issue": "Is the subsequent declaration of nullity of the second marriage on the ground of psychological incapacity a ground for acquittal of the accused in a criminal case for bigamy?",
+                            "ruling": "No, it is not a ground for acquittal of the accused in a criminal case for bigamy. Article 349 of the Revised Penal Code criminalizes 'any person who shall contract a second or subsequent marriage before the former marriage has been legally dissolved, or before the absent spouse has been declared presumptively dead by means of a judgment rendered in the proper proceedings",
                             "significance": "",
                             "correlation": "",
-                            "details": "",
+                            "details": "SUBSEQUENT DECLARATION OF NULLITY OF THE SECOND MARRIAGE ON THE GROUND OF PSYCHOLOGICAL INCAPACITY  NOT  A  GROUND  FOR  ACQUITTAL  OF  THE  ACCUSED  IN  A CRIMINAL CASE FOR BIGAMY",
                             "children": []
                         },
                         {
                             "name": "13. Montañez v. Cipriano",
                             "url": "",
                             "facts": "",
-                            "issue": "",
-                            "ruling": "",
+                            "issue": "Is the judicial nullity of a first marriage prior to the enactment of the Family Code, a valid defense for a charge of bigamy for entering into a second marriage?",
+                            "ruling": "NO. Respondent is still liable for bigamy. The elements of the crime of bigamy are: (a) the offender has been legally married; (b) the marriage has not been legally dissolved or, in case his or her spouse is absent, the absent spouse could not yet be presumed dead according to the Civil Code; (c) that he contracts a second or subsequent marriage; and (d) the second or subsequent marriage has all the essential requisites for validity.",
                             "significance": "",
                             "correlation": "",
-                            "details": "",
+                            "details": "BIGAMY IS CONSUMNATED AT THE MOMENT OF THE CELEBRATION OF THE SECOND MARRIAGE NOTWITHSTANDING THE NULLITY OF THE FIRST MARRIAGE",
                             "children": []
                         },
                         {
@@ -478,13 +478,13 @@
                             "ruling": "",
                             "significance": "",
                             "correlation": "",
-                            "details": "",
+                            "details": "ACTION FOR SPECIFIC PERFORMANCE, EVEN IF PENDING IN THE HLURB, AND ADMINISTRATIVE AGENCY, RAISES A PREJUDICIAL QUESTION",
                             "children": []
                         },
                         {
                             "name": "15. Navarro-Banaria v. Banaria",
                             "url": "",
-                            "facts": "",
+                            "facts": "90 year old, not included in bday party",
                             "issue": "",
                             "ruling": "",
                             "significance": "",
@@ -565,7 +565,7 @@
                             "facts": "This is a petition for certiorari bringing up for review the question whether the husband of a woman, who voluntarily procured her abortion, could recover damages from the physician who caused the same.",
                             "issue": "Can damages be recovered by the parents on behalf of an unborn child who was aborted on account of the injuries it suffered?",
                             "ruling": "No, no transmission to anyone can take place as the child lacked juridical personality due to its pre-natal death. Since an action for pecuniary damages on account of personal injury or death pertains primarily to the one injured, it is easy to see that if no action for such damages could be instituted on behalf of the unborn child on account of the injuries it received, no such right of action could derivatively accrue to its parents or heirs. ",
-                            "significance": "",
+                            "significance": "representation of parents for the damage or injury",
                             "correlation": "",
                             "details": "NO ACTION FOR DAMAGES COULD BE INSTITUTED ON BEHALF OF THE UNBORN CHILD",
                             "children": []
