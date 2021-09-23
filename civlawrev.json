@@ -223,7 +223,8 @@
                                     "significance": "",
                                     "correlation": "",
                                     "details": "RR here which is internal in nature need not be published.",
-                                    "children": []}
+                                    "children": []
+                                }
                             ]
                         },
                         {
@@ -339,7 +340,7 @@
                             "children": []
                         },
                         {
-                            "name":  "3. Nikko Hotel Manila Garden",
+                            "name": "3. Nikko Hotel Manila Garden",
                             "url": "",
                             "facts": "Reyes filed a complaint for damages based on Article 19 and 21 of the New Civil Code. Lim and Hotel Nikko contend that pursuant to the doctrine of volenti non fit injuria, they cannot be made liable for damages as respondent Reyes assumed the risk of being asked to leave (and being embarrassed and humiliated in the process) as he was a gate-crasher.",
                             "issue": "Does Ms. Lim’s treatment to Reyes give rise for an action for damages against the latter and the hotel based on Articles 19 and 21 of the New Civil Code?",
@@ -362,7 +363,7 @@
                         },
                         {
                             "name": "5. Pe vs. Pe",
-                            "url": "",                            
+                            "url": "",
                             "facts": "The respondent frequented the house of Lolita on the pretext that he wanted to teach her how to pray the rosary. They fell in love with each other and conducted clandestine trysts.  The  rumors  about  their  love  affairs  reached  Lolita’s  parents  and  the respondent was forbidden from further seeing Lolita. Their love affair continued nonetheless. Lolita later disappeared from their residence. Her family found a handwritten note from the defendant to Lolita regarding the date of their meeting.",
                             "issue": "Are the petitioners entitled to recover moral, compensatory, exemplary and corrective damages based on Article 21 of the Civil Code for the acts of the respondent?",
                             "ruling": "Yes, the petitioners are entitled to recover damages for the acts of respondent.",
@@ -403,7 +404,7 @@
                             "correlation": "",
                             "details": "BAD FAITH IS PRESUMED IF THERE IS FAILURE TO COMPLY WITH THE STRICT REQUIREMENTS OF THE LAW THAT PREJUDICES/INJURES ANOTHER",
                             "children": []
-                        },                        
+                        },
                         {
                             "name": "8. Tenchavez vs. Escano",
                             "url": "",
@@ -742,6 +743,103 @@
             "correlation": "",
             "details": "",
             "children": [
+                {
+                    "name": "Class Notes",
+                    "url": "",
+                    "facts": "",
+                    "issue": "",
+                    "ruling": "",
+                    "significance": "",
+                    "correlation": "",
+                    "details": "1-67, Family Code",
+                    "enum1": "Falcis",
+                    "enum2": "Pulido",
+                    "enum3": "Andal",
+                    "enum4": "People v. Aragon - you cannot raise the defense of nullity of a previous case against the crime of bigamy. NOTE - there is a case (pulido) which might change the rules as to prejudicial questions on bigamy.",
+                    "enum5": "Quiz: Common law marriages made by mere agreement do not have marriage ceremonies and therefore are not recognized in the philippines between Filipinos even though in a foreign country",
+                    "enum6": "Motivation to enter into a marriage, as long as the essential and formal elements of marriage are present, does not affect the validity of marriage.",
+                    "enum7": "Silverio - transgender not allowed to change sex - female sex is that which produces the ova.",
+                    "enum8": "",
+                    "children": [
+                        {
+                            "name": "page 2",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "correlation": "",
+                            "details": "Cagandahan - allowed an intersex to change entries in birth certificate",
+                            "enum1": "Application for marriage license. Parental consent will not void the marriage license, but it is voidable at the instance of the parent or the minor whose parental consent was not obtained 5 years from reaching the age of 21.",
+                            "enum2": "Defect in the essential requisites - voidable (refers only to the essential element of consent. But it does not apply to legal capacity. Minority is not cured to make the marriage valid.",
+                            "enum3": "Authority of the solemnizing officer as to the elements -  Art. 7 incumbent member of the judiciary (within his territorial jurisdiction) - ",
+                            "enum4": "What if one of the requisites for the authority of a solemnizing officer is absent - is it an irregularity? or is it absence? ->  ",
+                            "enum5": "Delson -> Irregularity of Formal Requisites are only present in Marriage Ceremony and Marriage License, and Not in the Authority of the Solemnizing Officer",
+                            "enum6": "Art. 35 par. 2 provides an exception (Good Faith Marriages)",
+                            "enum7": "Witnesses in a Marriage Ceremony - absence of one witness -> only an irregularity",
+                            "enum8": "Navarro v. Domagtoy - a case against a judge, an obiter, but provides that lack of jurisdiction of the solemnizing officer is only an irregularity",
+                            "children": []
+                        },
+                        {
+                            "name": "page 3",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "correlation": "",
+                            "details": "",
+                            "enum1": "Falcis Case",
+                            "enum2": "Concept of Marriage is facing some challenges (same sex marriage, absolute divorce)",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "children": [
+                                {
+                                    "name": "Same Sex",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "correlation": "",
+                                    "details": "2015 US - Hodges v. Obergefell - cause of action: the nonadopting surviving spouse and the adopter are complete strangers; basis of case: due process and equal protection",
+                                    "enum1": "14th amendment to guarantees the right to marry whomsoever one chooses",
+                                    "enum2": "Facial Challenge was not a proper action. The petitioner should have filed the case 'as applied' to his situation" ,
+                                    "enum3": "",
+                                    "enum4": "",
+                                    "enum5": "",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "children": []
+                                },
+                                {
+                                    "name": "",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "correlation": "",
+                                    "details": "",
+                                    "enum1": "",
+                                    "enum2": "",
+                                    "enum3": "",
+                                    "enum4": "",
+                                    "enum5": "",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "name": "I. Voidable Marriages (Arts. 45-54, FC)",
                     "url": "",
