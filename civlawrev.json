@@ -808,8 +808,8 @@
                                     "correlation": "",
                                     "details": "2015 US - Hodges v. Obergefell - cause of action: the nonadopting surviving spouse and the adopter are complete strangers; basis of case: due process and equal protection",
                                     "enum1": "14th amendment to guarantees the right to marry whomsoever one chooses",
-                                    "enum2": "Facial Challenge was not a proper action. The petitioner should have filed the case 'as applied' to his situation" ,
-                                    "enum3": "",
+                                    "enum2": "Facial Challenge was not a proper action. The petitioner should have filed the case 'as applied' to his situation. Comment of the SolGen - an intervenor was attempted to be introduced. Unfortunately, the court did not allow since there was no remedy prayed for",
+                                    "enum3": "graduate school paper of Dean - LGBT needs protection. Property regimes of LGBT couples need to be regulated or protected by law",
                                     "enum4": "",
                                     "enum5": "",
                                     "enum6": "",
@@ -818,7 +818,86 @@
                                     "children": []
                                 },
                                 {
-                                    "name": "",
+                                    "name": "Absolute Divorce",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "correlation": "",
+                                    "details": "Philippines do not recognize absolute divorce, but only relative divorce.",
+                                    "enum1": "Estaves v. Escano, Lavadia v. Heirs of Luna",
+                                    "enum2": "Van Dorn, Ibay-Somera - valid effects of divorce obtained abroad",
+                                    "enum3": "Art. 26 [2] - new law -> new interpretation -> validly obtained divorce decree need not be initiated by the alien spouse -> not against public policy because there is a distinction as to the application only to 'mixed marriages'",
+                                    "enum4": "Corpus v. Sto. Tomas - what is the remedy? there is distinction between petition for recognition of foreign judgment and petition under Rule 108 (correction of entries in the civil registry)",
+                                    "enum5": "Orbecido - declaratory relief",
+                                    "enum6": "Manalo v. Republic (both petitions are filed)",
+                                    "enum7": "Racho Tanaka, Kondo (japanese parties) - Divorce by Mutual Agreement",
+                                    "enum8": "Areza - on proof of foreign law",
+                                    "children": [
+                                        {
+                                            "name": "Bills on Absolute Divorce",
+                                            "url": "",
+                                            "facts": "",
+                                            "issue": "",
+                                            "ruling": "",
+                                            "significance": "",
+                                            "correlation": "",
+                                            "details": "Committee on the house already passed it. The bill's grounds on divorce originate from the FC's grounds on legal separation, void, voidable",
+                                            "enum1": "Canon 1095 - Rule that Governs marriage in the Roman Catholic Church - lack of reason, lack of discretion, failure to comply with the obligations of marriage",
+                                            "enum2": "Tan v. Andal - did it change the interpretation of Art. 36? - a reiteration of previous jurisprudence (Kalaw v. Fernandez, Ngote v. Ngote) but a clear modification of the Molina guidelines",
+                                            "enum3": "",
+                                            "enum4": "",
+                                            "enum5": "",
+                                            "enum6": "",
+                                            "enum7": "",
+                                            "enum8": "",
+                                            "children": [
+                                                {
+                                                    "name": "Molina Guidelines",
+                                                    "url": "",
+                                                    "facts": "",
+                                                    "issue": "",
+                                                    "ruling": "",
+                                                    "significance": "",
+                                                    "correlation": "",
+                                                    "details": "",
+                                                    "enum1": "Tan v. Andal - quantum of evidence - more than preponderance but less than beyond reasonable doubt = Clear and Convincing Evidence (due to the presumption of validity of marriage)",
+                                                    "enum2": "A petitioner may invoke his own incapacity to annul the marriage",
+                                                    "enum3": "Tan v. Andal (Old) Root cause of the Psychological incapacity has to be medically identified must be sufficienclty proven by experts (New) Psychological Incapacity is not a medical or psychological incapacity - it is a legal concept. It is the judge that determines the existence of psychological incapacity. ",
+                                                    "enum4": "Tan v. Andal - Does not prohibit or discourage the findings and proof of psychological/personality disorders, but only prevents judges from automatically striking down a petition for noncompliance with the Molina Guidelines",
+                                                    "enum5": "Incurability - means legal incurability - persistent incapacity with respect to a specific partner",
+                                                    "enum6": "Gravity - does not refer to dangers of the illness",
+                                                    "enum7": "Not all failure to comply with parental obligations will result to psychological incapacity - (only greivous such as sexual abuse to the child)",
+                                                    "enum8": "Tan Andal - Art. 36 will also include the lack of discretion under Art. 1095(2) ",
+                                                    "children": [
+                                                        {
+                                                            "name": "Consequences",
+                                                            "url": "",
+                                                            "facts": "",
+                                                            "issue": "",
+                                                            "ruling": "",
+                                                            "significance": "",
+                                                            "correlation": "",
+                                                            "details": "Will the parties adversely affected by the Molina Doctrine be able to refile their case?",
+                                                            "enum1": "No.",
+                                                            "enum2": "",
+                                                            "enum3": "",
+                                                            "enum4": "",
+                                                            "enum5": "",
+                                                            "enum6": "",
+                                                            "enum7": "",
+                                                            "enum8": "",
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Petitions for Declaraction of Nullity",
                                     "url": "",
                                     "facts": "",
                                     "issue": "",
@@ -826,8 +905,27 @@
                                     "significance": "",
                                     "correlation": "",
                                     "details": "",
-                                    "enum1": "",
-                                    "enum2": "",
+                                    "enum1": "Will AM 2-11-10 apply to cases of recognition of a foreign divorce? No. (Marinay Fujiki)",
+                                    "enum2": "The rules only apply to marriages solemnized within the effectivity of the Family Code. -> Rules are prospective, except when the law provides",
+                                    "enum3": "Does not apply to marriages solemnized under the Family Code but before March 4, 2003 (effectivity of the Rule)",
+                                    "enum4": "Republic v. Olaybar - The Rule also does not apply to a case where there is no marriage at all. Rule 108 is sufficient as a remedy.",
+                                    "enum5": "While the spouses are still alive, only the husband and wife can file the petition. The rights of the heirs are inchoate.",
+                                    "enum6": "Huliano Llave case, Tamano - The first spouse in a case for bigamy may file a case for the annulment of the marriage, but it does not preclude the filing of the 2nd innocent spouse.",
+                                    "enum7": "Where to File: Rule on Venue (Adm. Matter 63 series of 2019) - Documentary Requirements and Sworn Declaration by the Lawyer showing proof that the petitioner is a bona fide resident of the place.",
+                                    "enum8": "Dio v. Dio - Property Regimes Note: Decision is different from the Decree. Only upon compliance of the requirements (liquidation of the property regime) will the decree be issued. under 45, under 40",
+                                    "children": []
+                                },
+                                {
+                                    "name": "You need to fix this note... sir too fast",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "correlation": "",
+                                    "details": "A petition for partition can be filed through another petition under the Civil Code",
+                                    "enum1": "If the case was made under Art. 36, no need to comply with Art. 51",
+                                    "enum2": "Art. 40",
                                     "enum3": "",
                                     "enum4": "",
                                     "enum5": "",
@@ -835,7 +933,7 @@
                                     "enum7": "",
                                     "enum8": "",
                                     "children": []
-                                }
+                                    }
                             ]
                         }
                     ]
