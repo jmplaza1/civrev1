@@ -155,7 +155,7 @@
                                     "ruling": "",
                                     "significance": "",
                                     "correlation": "",
-                                    "details": "",
+                                    "details": "In the case of immovables by destination, the code requires that they be placed by the owner of the tenement, in order to acquire the same nature or consideration of real property. In cases of immovable by incorporation, the code nowhere requires that the attachment or incorporation be made by the owner of the land. The only criterion is union or incorporation with the soil.",
                                     "enum1": "",
                                     "enum2": "",
                                     "enum3": "",
@@ -174,7 +174,7 @@
                                     "ruling": "",
                                     "significance": "",
                                     "correlation": "",
-                                    "details": "",
+                                    "details": "Aside from the element of essentiality in Art. 415 also requires that the industry or works be carried on in a building or on a piece of land. But in the case at bar the equipments  in question are destined only to repair or service the transportation business, which is not carried on in a building or permanently on a piece of land, as demanded by the law. Said equipments may not, therefore, be deemed real property. ",
                                     "enum1": "",
                                     "enum2": "",
                                     "enum3": "",
@@ -183,7 +183,27 @@
                                     "enum6": "",
                                     "enum7": "",
                                     "enum8": "",
-                                    "children": []
+                                    "children": [
+                                        {
+                                            "name": "Art. 415",
+                                            "url": "",
+                                            "facts": "",
+                                            "issue": "",
+                                            "ruling": "",
+                                            "significance": "",
+                                            "correlation": "",
+                                            "details": "The following are immovable property:",
+                                            "enum1": "(5) Machinery, receptacles, instruments or implements intended by the owner of the tenement for an industry or works which may be carried on in a building or on a piece of land, and which tend directly to meet the needs of the said industry or works;",
+                                            "enum2": "",
+                                            "enum3": "",
+                                            "enum4": "",
+                                            "enum5": "",
+                                            "enum6": "",
+                                            "enum7": "",
+                                            "enum8": "",
+                                            "children": []
+                                            }
+                                    ]
                                 },
                                 {
                                     "name": "Makati Leasing & Finance Corp., v. Wearever Textile Mills, Inc.",
@@ -193,7 +213,7 @@
                                     "ruling": "",
                                     "significance": "",
                                     "correlation": "",
-                                    "details": "",
+                                    "details": "It must be pointed out that the characterization of the subject machinery as chattel by the private respondent is indicative of intention and impresses upon the property the character determined by the parties. As stated in Standard Oil Co. of New York v. Jaramillo, it is undeniable that the parties to a contract may by agreement treat as personal property that which by nature would be real property, as long as no interest of third parties would be prejudiced thereby.",
                                     "enum1": "",
                                     "enum2": "",
                                     "enum3": "",
