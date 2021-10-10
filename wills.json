@@ -1462,7 +1462,27 @@
                             ]
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "name": "Disposition of Estate By Will",
+            "url": "",
+            "facts": "",
+            "issue": "",
+            "ruling": "",
+            "significance": "",
+            "correlation": "",
+            "details": "",
+            "enum1": "",
+            "enum2": "",
+            "enum3": "",
+            "enum4": "",
+            "enum5": "",
+            "enum6": "",
+            "enum7": "",
+            "enum8": "",
+            "children": [
                 {
                     "name": "Institution of Heir",
                     "url": "",
