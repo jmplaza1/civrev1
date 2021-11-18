@@ -3112,7 +3112,7 @@
                                             "enum7": "",
                                             "enum8": "",
                                             "children": []
-                                            }
+                                        }
                                     ]
                                 },
                                 {
@@ -3172,26 +3172,88 @@
                             "enum6": "",
                             "enum7": "",
                             "enum8": "",
-                            "children": [ {
-                                "name": "Exemption:",
-                                "url": "",
-                                "facts": "",
-                                "issue": "",
-                                "ruling": "",
-                                "significance": "",
-                                "correlation": "",
-                                "details": "The court may exempt one spouse from living with the other if:",
-                                "enum1": "1. The other should live abroad",
-                                "enum2": "2. If there is a valid and compelling reason.",
-                                "enum3": "",
-                                "enum4": "However, the court is powerless to ",
-                                "enum5": "",
-                                "enum6": "",
-                                "enum7": "",
-                                "enum8": "",
-                                "children": []
-                                }]
-                            },
+                            "children": [
+                                {
+                                    "name": "Exemption:",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "correlation": "",
+                                    "details": "The court may exempt one spouse from living with the other if:",
+                                    "enum1": "1. The other should live abroad",
+                                    "enum2": "2. If there is a valid and compelling reason.",
+                                    "enum3": "",
+                                    "enum4": "However, the court is powerless to enforce the obligation to live together. But once the court exempts one of the spouses from living with the other, the latter shall not lose the right to demand legal support from the other spouse",
+                                    "enum5": "",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "children": [
+                                        {
+                                            "name": "When Exemption Does not Apply",
+                                            "url": "",
+                                            "facts": "",
+                                            "issue": "",
+                                            "ruling": "",
+                                            "significance": "",
+                                            "correlation": "",
+                                            "details": "",
+                                            "enum1": "If the same is not compatible with the solidarity of the family",
+                                            "enum2": "",
+                                            "enum3": "",
+                                            "enum4": "",
+                                            "enum5": "",
+                                            "enum6": "",
+                                            "enum7": "",
+                                            "enum8": "",
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Execise of Profession, Business, or Activity",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "correlation": "",
+                            "details": "",
+                            "enum1": "Under RA 9262, if the husband prevents his wife from engaging in any legitimate profession, occupation, business, or activity, he has committed an act of violence punishable by the said law, except in cases where the husband objects on valid, serious, and moral grounds.",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "children": [
+                                {
+                                    "name": "Liability for Obligations Incurred in Case of Objection",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "correlation": "",
+                                    "details": "If the court finds that such objection is proper, the resulting liability shall be born by the following:",
+                                    "enum1": "* Benefit Accrued to the Family Prior to the Objection => Chargable to AC or CP",
+                                    "enum2": "* Benefit Accrued to the Family After the Objection => Enforced against SP of the spouse who has not obtained consent",
+                                    "enum3": "* No benefit accured => Enforced against SP of the spouse who has not obtained consent",
+                                    "enum4": "",
+                                    "enum5": "",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "children": []
+                                    }
+                            ]
+                            }
+                        ,
                         {
                             "name": "Cases",
                             "url": "",
@@ -3308,6 +3370,25 @@
                     "enum7": "",
                     "enum8": "",
                     "children": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "correlation": "",
+                            "details": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "children": []
+                            },
                         {
                             "name": "Cases",
                             "url": "",
